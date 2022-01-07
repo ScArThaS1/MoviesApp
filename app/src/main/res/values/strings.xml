@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="tab_maps">Mapa</string>
+    <string name="tab_movies">Películas</string>
+    <string name="tab_photos">Imágenes</string>
+    <string name="notification_channel_id">movies_channel_notification</string>
+    <string name="notification_title">¡Felicidades!</string>
+    <string name="notification_text">Se ha registrado tu ubicación satisfactoriamente.</string>
+    <string name="add_photos_text">Agregar Fotos</string>
+    <string name="selected_option_text">Seleccione una Opción</string>
+    <string name="success_upload_image">Imagen subida exitosamente</string>
+    <string name="failed_upload_image">Falló la subida de la imagen</string>
+    <string name="from_galery_text">De Galeria</string>
+    <string name="take_photo_text">Tomar Foto</string>
+    <string name="accept_text">Aceptar</string>
+</resources>
